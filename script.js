@@ -5,7 +5,7 @@ function appendToDisplay(value) {
 function clearDisplay() {
     document.getElementById('display').value = '';
 }
-
+// Function Function
 // Function Calculate
 function calculateResult() {
     let display = document.getElementById('display');
