@@ -6,6 +6,7 @@ function clearDisplay() {
     document.getElementById('display').value = '';
 }
 
+// Function Calculate
 function calculateResult() {
     let display = document.getElementById('display');
     try {
